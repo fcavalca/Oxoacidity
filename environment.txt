@@ -1,5 +1,5 @@
 name: stats
 dependencies:
   - pandas
-  - plotly
+  - plotly.graph_objects
   - os
